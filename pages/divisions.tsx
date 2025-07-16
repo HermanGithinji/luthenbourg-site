@@ -47,7 +47,7 @@ export default function Divisions() {
           </div>
           <div className="bg-white text-black p-6 rounded-xl shadow-md">
             <h3 className="text-xl font-bold">Unit Watch</h3>
-            <p>Flagship App — real-time token tracking for Kenya & Tanzania’s electricity users.</p>
+            <p>Flagship App — real-time token tracking for Kenya & Tanzania&apos;s electricity users.</p>
           </div>
         </div>
       </main>
